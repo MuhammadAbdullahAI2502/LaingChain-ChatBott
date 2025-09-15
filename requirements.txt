@@ -2,6 +2,6 @@ streamlit
 python-dotenv
 langchain
 langchain-groq
-pandas
-openai
-numpy
+gtts
+langdetect
+streamlit-mic-recorder
